@@ -13,3 +13,6 @@ header{
     display: flex;
     align-items: center;
  }
+ li{
+    margin-right: 20px;
+ }
